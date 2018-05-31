@@ -5,7 +5,7 @@ One Agency React Night starter project
 1. Run `npm install` to install dependencies
 2. Run `npm start` to start server at http://localhost:1234
 
-## Exercise 1: Create components (See attachment)
+## Exercise 1: Create components ([See attachment](https://github.com/OneAgencySE/react-night-starter/raw/master/exercises/Exercise%201.pdf))
 You have been given the task of building the webshop Recat, which mainly deals with selling pictures on cats. You have now got the first sketch that is on a product in the webshop. Your task is to build this in the React framework.
 
 ***Things to consider before you begin are:***
@@ -19,7 +19,7 @@ You have been given the task of building the webshop Recat, which mainly deals w
 - Render Element - https://reactjs.org/docs/rendering-elements.html
 - Components and props - https://reactjs.org/docs/components-and-props.html
 
-## Exercise 2: Event and state (See attachment)
+## Exercise 2: Event and state ([See attachment](https://github.com/OneAgencySE/react-night-starter/raw/master/exercises/Exercise%202.pdf))
 You have new requirements that the webshop customers should be able to choose one or more cat pictures that they can add to the shopping cart.
  
  
@@ -27,7 +27,7 @@ You have new requirements that the webshop customers should be able to choose on
 - State and Lifecycle Methods - https://reactjs.org/docs/state-and-lifecycle.html
 - Event Management - https://reactjs.org/docs/handling-events.html
 
-## Exercise 3: Conditional rendering and lists (See attachment)
+## Exercise 3: Conditional rendering and lists ([See attachment](https://github.com/OneAgencySE/react-night-starter/raw/master/exercises/Exercise%203.pdf))
 Yet another requirement from your customer ... To your surprise, they want to be able to sell multiple cat pictures. 🙄
  
 
