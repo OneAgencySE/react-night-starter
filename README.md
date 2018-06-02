@@ -5,6 +5,9 @@ One Agency React Night starter project
 1. Run `npm install` to install dependencies
 2. Run `npm start` to start server at http://localhost:1234
 
+## Tools
+For a better developer experience you can install [React DevTools](https://github.com/facebook/react-devtools) extension which let you inspect the React component tree in Chrome and Firefox. 
+
 ## Exercise 1: Create components ([See attachment](https://github.com/OneAgencySE/react-night-starter/raw/master/exercises/Exercise%201.pdf))
 You have been given the task of building the webshop Recat, which mainly deals with selling pictures on cats. You have now got the first sketch that is on a product in the webshop. Your task is to build this in the React framework.
 
