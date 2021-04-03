@@ -41,8 +41,8 @@ export const getAll = () => {
   return items.slice();
 };
 
-export const getById = id => {
-  const item = items.find(item => item.id === id);
+export const getById = (id) => {
+  const item = items.find((item) => item.id === id);
   if (!item) {
     return null;
   }

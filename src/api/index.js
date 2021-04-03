@@ -8,7 +8,7 @@ import cartItems from './cartItems';
 const mock = new MockAdapter(axios);
 const debug = createDebugger('api');
 
-const parseIdFromUrl = url =>
+const parseIdFromUrl = (url) =>
   parseInt(url.substring(url.lastIndexOf('/') + 1), 10);
 
 mock.onGet('/api/items').reply(() => {
